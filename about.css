@@ -22,36 +22,41 @@ time, mark, audio, video {
 body{
     background-image: url("././Annotation 2020-06-23 112052.jpg");
     background-size: 14rem;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Open Sans', sans-serif;
 }
 header{
     background:darkred;
     text-align:center;
     font-size: 4.5rem;
     padding:2rem;
+    font-style: bold;
     
 }
 h1{
     color:#F2BB2F
 }
 .header-nav a{
-   background-color: #F2BB2F;
+    background-color: #F2BB2F;
    border: 1rem, solid, #703103;
     margin:2rem, 5rem;
     font-size: 2rem;
-    padding:.5rem;
+    padding:1.5rem;
     color: #703103;
-    font-size: 1rem;
+    font-size: 1.5rem;
+    border-radius:5%;
 }
 h2{
     text-align:center;
     font-size:3rem;
-    
+    background-color: #F2BB2F;
+    color: darkred
 }
 
 .large-container{
     display:flex;
     justify-content: center;
-    align-items: center;
+    align-items: start;
     flex-wrap:wrap;
 }
 
