@@ -21,11 +21,14 @@ time, mark, audio, video {
 
 header{
     text-align:center;
-    font-size: 5rem;
+    font-size: 4.5rem;
     padding:2rem;
     margin:2rem;
 }
-
+.header-nav a{
+    margin:2rem, 10rem;
+    font-size: 2rem;
+}
 h2{
     text-align:center;
     font-size:3rem;
