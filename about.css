@@ -34,8 +34,9 @@ header{
     
 }
 h1{
-    color:#F2BB2F;
-    
+    font-family: 'Montserrat', sans-serif;
+    color: #f3e1ab;
+    text-shadow: 2px 2px 2px black;
 }
 .header-nav a{
     background-color: #F2BB2F;
@@ -46,12 +47,14 @@ h1{
     color: #703103;
     font-size: 1.5rem;
     border-radius:5%;
+    
 }
 h2{
     text-align:center;
     font-size:3rem;
     background-color: #F2BB2F;
-    color: darkred
+    color: darkred;
+    text-shadow: 2px 2px 2px #f3e1ab;
 }
 
 .large-container{
