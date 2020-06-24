@@ -33,6 +33,11 @@ header{
     color: #F2BB2F;
     
 }
+h1{
+    font-family: 'Montserrat', sans-serif;
+    color: #f3e1ab;
+    text-shadow: 2px 2px 2px black;
+}
 
 .header-nav a{
     background-color: #F2BB2F;
@@ -51,6 +56,7 @@ h2{
     width: 100%;
     background-color: #F2BB2F;
     color: darkred;
+    text-shadow: 2px 2px 2px #f3e1ab;
 }
 .features{
     display:flex;
