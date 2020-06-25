@@ -53,6 +53,7 @@ h1{
 .header-nav a:hover {
     background-color:#703103;
     color: #F2BB2F;
+    box-shadow: 10px 5px 5px black;
   }
 h2{
     text-align:center;
@@ -62,6 +63,7 @@ h2{
     text-shadow: 2px 2px 2px #f3e1ab;
     font-family: 'Montserrat', sans-serif;
     font-family: 'Open Sans', sans-serif;
+    box-shadow: 10px 5px 5px black;
 }
 
 .large-container{
@@ -85,6 +87,9 @@ h2{
 img{
     border-radius:30%;
     height:20rem
+}
+img:hover{
+    box-shadow: 10px 5px 5px black;
 }
 
 h3, p{
@@ -117,6 +122,7 @@ h3, p{
  .footer-nav a:hover {
     background-color:#703103;
     color: #F2BB2F;
+    box-shadow: 10px 5px 5px black;
   }
 @media(max-width: 500px){
     
