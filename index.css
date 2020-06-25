@@ -47,9 +47,12 @@ h1{
     padding:1.5rem;
     color: #703103;
     font-size: 1.5rem;
-    border-radius:5%;
+    border-radius:15%;   
 }
-
+.header-nav a:hover {
+        background-color:#703103;
+        color: #F2BB2F;
+      }
 h2{
     text-align:center;
     font-size:2.5rem;
@@ -96,10 +99,15 @@ p{
     
 }
 .footer-nav a{background-color: #F2BB2F;
-    border: 1rem, solid, #703103;
+    border: 1rem, solid, #f3e1ab;
      margin:2rem, 5rem;
      font-size: 2rem;
-     padding:.5rem;
+     padding:1rem;
      color: #703103;
-     font-size: 1rem;
+     font-size: 1.5rem;
+     border-radius: 15%;
  }
+ .footer-nav a:hover {
+    background-color:#703103;
+    color: #F2BB2F;
+  }
