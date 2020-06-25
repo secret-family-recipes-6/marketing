@@ -52,6 +52,7 @@ h1{
 .header-nav a:hover {
         background-color:#703103;
         color: #F2BB2F;
+        box-shadow: 10px 5px 5px black;
       }
 h2{
     text-align:center;
@@ -60,6 +61,7 @@ h2{
     background-color: #F2BB2F;
     color: darkred;
     text-shadow: 2px 2px 2px #f3e1ab;
+    box-shadow: 10px 5px 5px black;
 }
 .features{
     display:flex;
@@ -78,6 +80,9 @@ img{
     border-width: .5rem;
     border-style: solid;
 }
+img:hover{
+    box-shadow: 10px 5px 5px black;
+}
 p{
     width:25%;
     padding: 2rem;
@@ -86,8 +91,10 @@ p{
     border-color: darkred;
     border-style: solid;
     border-width:1rem;
-    margin:.5rem;
-    
+    margin:.5rem;  
+}
+p:hover{
+    box-shadow: 10px 5px 5px black;
 }
 
 .footer-nav{
@@ -110,4 +117,5 @@ p{
  .footer-nav a:hover {
     background-color:#703103;
     color: #F2BB2F;
+    box-shadow: 10px 5px 5px black;
   }
